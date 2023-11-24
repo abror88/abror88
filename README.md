@@ -22,4 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abror88&show_icons=true&locale=en" alt="abror88" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abror88&" alt="abror88" /></p>
-
+![image](https://github.com/abror88/abror88/assets/151840212/c45e850f-b2bd-4283-81cb-adb2b8f51cc8)
