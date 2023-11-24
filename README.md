@@ -34,11 +34,15 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 <h1 align="center">Hi 👋, I'm Anvarov Abror</h1>
-<h3 align="center">A full stack developer</h3>
+<h3 align="center">A Full stack developer from Uzbekistan</h3>
+
+- 🔭 I’m currently working on **Qwasar project**
+
+- 🌱 I’m currently learning **courses**
 
 - 📫 How to reach me **anvarovabror88@gmail.com**
 
-- ⚡ Fun fact **I able to write codes without touching the keyboard.**
+- ⚡ Fun fact **Fun fact I able to write codes without touching the keyboard.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,4 +57,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abror88&show_icons=true&locale=en" alt="abror88" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abror88&" alt="abror88" /></p>
-
